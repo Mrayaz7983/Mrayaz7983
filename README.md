@@ -5,9 +5,8 @@
 
 <!-- Custom Logo -->
 <p align="center">
-  <img src="https://github.com/Ayaz-Ahmed/Ayaz-Ahmed/blob/main/assets/ayaz-logo.png" width="150px" alt="Ayaz Ahmed Logo">
+  <img src="https://raw.githubusercontent.com/Ayaz-Ahmed/Ayaz-Ahmed/main/AA-logo.png" width="150px" alt="Ayaz Ahmed Logo">
 </p>
-
 ---
 
 ## 🚀 About Me  
