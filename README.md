@@ -1,38 +1,30 @@
-<!-- Banner Section -->
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Ayaz+Ahmed;SMIT+Student+🚀;Passionate+Web+Developer;Learning+Advanced+Web+Development" alt="Typing Animation">
-</p>
-
-<!-- Custom Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrayaz7983/mrayaz7983/main/AA-logo.png" width="150px" alt="Ayaz Ahmed Logo">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Ayaz+Ahmed;Passionate+Web+Developer;Learning+Advanced+Web+Development;Open+Source+Contributor+🚀" alt="Typing Animation">
 </p>
 
 ---
 
-## 🚀 About Me  
-
-🎓 **SMIT Student** | 💻 **Web Developer** | 🔥 **Tech Enthusiast**  
-
-- 🏆 **1st Place Winner** – **SMIT Hackathon**  
-- 🔭 Currently learning **Advanced Web Development** at **Saylani Mass IT Training (SMIT)**  
-- 🌱 Exploring **React.js, Next.js, Node.js, and Backend Technologies**  
-- 💬 Ask me about **JavaScript, Web Development, & Problem Solving**  
-- 🎯 Always **improving & building exciting projects**  
+## 👨‍💻 **About Me**  
+🔹 **SMIT Student** | 🎯 **Front-End & Back-End Enthusiast** | 💻 **Tech Explorer**  
+🔹 **🏆 1st Place Hackathon Winner** @ SMIT  
+🔹 Passionate about **building responsive web applications & problem-solving**  
+🔹 Learning **MERN Stack, Next.js, and Backend Technologies**  
+🔹 Exploring **AI + Web Development** 🚀  
 
 ---
 
-## 🌐 Connect with Me  
-
+## 🔥 **Tech Stack & Tools**  
 <p align="center">
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&lo
-
-## 📊 GitHub Stats:  
-![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaz-ahmed&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz-ahmed&layout=compact&theme=radical)  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
 
 ---
 
-⭐️ **Let's build awesome projects together!** 🚀
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrayaz7983&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrayaz7983&theme=radical" alt="GitHub Streak" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayaz7983&layout=compact&theme=radical" alt="Top Languages" width="450px">
+</p>
 
